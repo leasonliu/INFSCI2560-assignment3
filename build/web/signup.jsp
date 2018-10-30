@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h1 class="text-center login-title">Sign in!</h1>
+                    <h1 class="text-center login-title">Sign up!</h1>
                     <div class="account-wall">
                         <form class="form-signin" method ="post" action = "SignupController">
                         <input type="text" class="form-control" placeholder="User Name" name="username" required autofocus>
